@@ -1,0 +1,4 @@
+sleep 1
+sleep 1
+echo "TERIMA KASIH TELAH MENGGUNAKAN TOOLS INI "
+echo "BY : FAJAR CYBER "
