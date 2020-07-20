@@ -26,10 +26,10 @@ read -p "[•] MASUK SCRIPT" read tr
 clear
 sleep 1
 figlet "TOOLS"
-echo "$red ===================================================="
-echo "$red |    $cyan AUTHOR  : FAJAR CYBER                     |"
-echo "$red |    $cyan WHATSAP : 08882091xxx                     |"
-echo "$red ===================================================="
+echo "$red ==================================================="
+echo "$red |           $cyan AUTHOR  : FAJAR CYBER                     |"
+echo "$red |           $cyan WHATSAP : 08882091xxx                     |"
+echo "$red ==================================================="
 echo "$white |         APALU LIRIK LIRIK TOD                   |"
 echo "$white |                                                 |"
 echo "$white ==================================================="
