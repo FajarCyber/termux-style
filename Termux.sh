@@ -18,7 +18,7 @@ sleep 1
 read -p "UDAH PUNYA PACAR BELUM : " read tr
 sleep 1
 echo
-echo "$cyan OKE TANPA BANYAK BACOT KITA LANGSUNG MASUK SCRIPT NYA TOD
+echo "$cyan OKE TANPA BANYAK BACOT KITA LANGSUNG MASUK SCRIPT NYA TOD"
 echo "$cyan UWOE.."
 echo "$green CLICK $cyan ENTER UNTUK MASUK SCRIPT"
 echo
