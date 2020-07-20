@@ -11,12 +11,14 @@ lightgreen='\e[1;32m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 
+echo "$green SAMLEKOM MAMANG NGENTODD !!!"
+echo
 read -p "SIAPA NAMA KAMU : " read tr
 sleep 1
 read -p "UDAH PUNYA PACAR BELUM : " read tr
 sleep 1
 echo
-echo "$cyan OKE TANPA BANYAK BACOT KITA LANGSUNG MASUK SCRIPT N>
+echo "$cyan OKE TANPA BANYAK BACOT KITA LANGSUNG MASUK SCRIPT NYA TOD
 echo "$cyan UWOE.."
 echo "$green CLICK $cyan ENTER UNTUK MASUK SCRIPT"
 echo
@@ -24,13 +26,13 @@ read -p "[•] MASUK SCRIPT" read tr
 clear
 sleep 1
 figlet "TOOLS"
-echo "$red =============================================="
-echo "$red |    $cyan AUTHOR  : FAJAR CYBER             |"
-echo "$red |    $cyan WHATSAP : 08882091xxx             |"
-echo "$red =============================================="
+echo "$red ===================================================="
+echo "$red |    $cyan AUTHOR  : FAJAR CYBER                 |"
+echo "$red |    $cyan WHATSAP : 08882091xxx                 |"
+echo "$red ===================================================="
 echo "$white |         APALU LIRIK LIRIK TOD                |"
 echo "$white |                                              |"
-echo "$white =============================================="
+echo "$white ================================================="
 echo "$cyan SILAKAN PILIH SCRIPT"
 echo
 echo "$green 1.DARK FB                          $cyan [ON]"
